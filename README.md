@@ -2,6 +2,7 @@
 🔭 I’m currently working on private small projects and projects insided my company<br>👯 I’m looking to collaborate on cool machine learning or web development projects<br>🤝 I’m looking for help with software architecture<br>🌱 I’m currently learning Rust and React Framework<br>💬 Ask me about python, machine learning<br>⚡ Fun fact I learn coding by myself and not at school
 
 ## 📱Portfolio:
+[Portfolio]([https://www.mehdis-dev-hub.com/](https://portfolio-onepage.vercel.app/))
 [Mehdi's Dev Hub](https://www.mehdis-dev-hub.com/)
 
 ## 🌐 Socials:
